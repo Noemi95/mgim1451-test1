@@ -1,3 +1,7 @@
-abc
+aaabc
 def
+<<<<<<< HEAD
 mod master
+=======
+mod branch1
+>>>>>>> branch1
